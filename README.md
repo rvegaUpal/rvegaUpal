@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Rodrigo Vega Heredia 👋
 
-<!--
-**rvegaUpal/rvegaUpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profesional de **Business Intelligence & Data Analytic** en la **Universidad UPAL** (Cochabamba, Bolivia).
+Trabajo en el análisis y gestión de datos institucionales para apoyar la toma de decisiones académicas y administrativas.
 
-Here are some ideas to get you started:
+### 🔎 Áreas de trabajo
+- Diseño y desarrollo de dashboards en **Power BI**
+- Modelado de datos y medidas **DAX**
+- Indicadores de gestión académica y financiera
+- Automatización de reportes y alertas tempranas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Herramientas
+Power BI · Power Query · DAX · Excel · SQL · Git · GitHub
+
+### 🚀 Enfoque actual
+Implementación de **versionamiento y Lifecycle Management (LM)** para proyectos Power BI, usando formato **PBIP**, Git y GitHub: ramas, Pull Requests, versiones semánticas y releases.
+
+### 📫 Contacto
+- LinkedIn: [tu-perfil](https://www.linkedin.com/in/tu-perfil)
